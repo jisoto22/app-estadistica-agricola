@@ -39,4 +39,11 @@ La aplicación incluirá las páginas Inicio, Datos y Análisis Exploratorio de 
 
 ## Hallazgos del EDA
 
-Pendiente de completar después de realizar el análisis exploratorio de los datos en Streamlit.
+- Se analizaron 87 parcelas agrícolas del cultivo de sorgo en el municipio de Tolú.
+- Se identificaron 42 parcelas con suelo arcilloso, 31 con suelo franco y 14 con suelo arenoso.
+- El suelo franco presentó el mayor rendimiento promedio, con 4,69 t/ha.
+- Las parcelas con suelo arcilloso registraron un rendimiento promedio de 4,21 t/ha.
+- El suelo arenoso presentó un rendimiento promedio de 4,20 t/ha.
+- Las 37 parcelas con riego obtuvieron un rendimiento promedio de 4,49 t/ha.
+- Las 50 parcelas sin riego presentaron un rendimiento promedio de 4,29 t/ha.
+- Las parcelas con riego presentaron un rendimiento promedio 0,20 t/ha superior al de las parcelas sin riego, aunque esta diferencia no demuestra una relación causal.
